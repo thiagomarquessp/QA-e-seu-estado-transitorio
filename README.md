@@ -1,0 +1,1 @@
+# QA_e_seu_estado_transitorio
